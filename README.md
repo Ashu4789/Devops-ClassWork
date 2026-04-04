@@ -1,16 +1,12 @@
-# DevOps 6th Sem Practice 
+# AWS EC2 Portfolio Deployment
 
-This repository contains my daily practice work for DevOps subject.
+## Day 1 Work:
+- Created AWS account
+- Launched EC2 instance
+- Connected using SSH
+- Installed Apache server
+- Configured security groups (HTTP & SSH)
+- Deployed portfolio using GitHub
 
-## Topics Covered:
-- Docker
-- Docker Compose
-- Jenkins
-- GitHub Actions
-- CI/CD Pipelines
-
-## Daily Progress:
-- Day 1: Basic Docker commands
-- Day 2: Dockerfile creation
-- Day 3: Docker Compose
-
+## Result:
+Portfolio hosted successfully on AWS EC2
